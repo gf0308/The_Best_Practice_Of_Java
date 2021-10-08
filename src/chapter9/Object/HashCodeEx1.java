@@ -1,4 +1,4 @@
-package java_lang_package.Object;
+package chapter9.Object;
 
 public class HashCodeEx1 {
     public static void main(String[] args) {
