@@ -12,6 +12,7 @@ package chapter9.Object;
  *               2. 클래스패스(classpath)에 지정된 경로를 따라서 클래스파일(.class)을 찾는다
  *                2-1. 찾으면 -> 해당 클래스파일을 읽어서 Class객체로 변환
  *                2-2. 못찾으면 -> 'ClassNotFoundException' 을 발생시킴
+ *
 * */
 
 public class ClassEx1 {
